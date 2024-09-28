@@ -108,14 +108,6 @@ while not stop_flying:
 
 
 
-# Test
-# mav.move_up(30)
-# sleep(3)
-# mav.move_back(70)
-# sleep(3)
-# mav.rotate_counter_clockwise(90)
-# sleep(3)
-
 # Land the drone safely
 mav.land()
 mav.end()
